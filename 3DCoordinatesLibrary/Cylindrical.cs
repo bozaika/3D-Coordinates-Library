@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 namespace _3DCoordinatesLibrary
 {
         /// <summary>
-        /// The class Cylindrical, used to represent a cartesian coordinates.
+        /// The class Cylindrical, used to represent a Cylindrical coordinates.
         /// </summary>
         public class Cylindrical
         {
             /// <summary>
-            /// the variable the used to represent cylindrical coordinate.
+            /// The variable that used to represent Cylindrical coordinate.
             /// </summary>
             double _R;  //properties
             double _ThetaC;
             double _ZZ;
 
             /// <summary>
-            /// The variable R in cylindrical coordinate.
+            /// The variable R in Cylindrical coordinate.
             /// </summary>
             public double R //setter and getter
             {
@@ -34,7 +34,7 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
-            /// The variable Theta in cylindrical coordinate.
+            /// The variable Theta in Cylindrical coordinate.
             /// </summary>
             public double ThetaC
             {
@@ -49,7 +49,7 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
-            /// The variable Z in cylindrical coordinate.
+            /// The variable Z in Cylindrical coordinate.
             /// </summary>
             public double ZZ
             {

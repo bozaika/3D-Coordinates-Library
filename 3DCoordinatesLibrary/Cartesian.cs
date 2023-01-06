@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 namespace _3DCoordinatesLibrary
 {
         /// <summary>
-        /// The class Cartesian, used to represent a cartesian coordinates.
+        /// The class Cartesian, used to represent a Cartesian coordinates.
         /// </summary>
         public class Cartesian
         {
             /// <summary>
-            /// the variable the used to represent cartesian coordinate.
+            /// The variable that used to represent Cartesian coordinate.
             /// </summary>
             double _X;  //properties
             double _Y;
             double _Z;
 
             /// <summary>
-            /// The variable X in cartesian coordinate.
+            /// The variable X in Cartesian coordinate.
             /// </summary>
             public double X //setter and getter
              {
@@ -34,7 +34,7 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
-            /// The variable Y in cartesian coordinate.
+            /// The variable Y in Cartesian coordinate.
             /// </summary>
             public double Y
             {
@@ -49,7 +49,7 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
-            /// The variable Z in cartesian coordinate.
+            /// The variable Z in Cartesian coordinate.
             /// </summary>
             public double Z
             {

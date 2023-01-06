@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 namespace _3DCoordinatesLibrary
 {
         /// <summary>
-        /// The class Spherical, used to represent a spherical coordinates.
+        /// The class Spherical, used to represent a Spherical coordinates.
         /// </summary>
         public class Spherical
         {
             /// <summary>
-            /// the variable the used to represent spherical coordinate.
+            /// The variable that used to represent Spherical coordinate.
             /// </summary>
             double _Rho;  //properties
             double _ThetaS;
             double _Phi;
 
             /// <summary>
-            /// The variable Rho in spherical coordinate.
+            /// The variable Rho in Spherical coordinate.
             /// </summary>
             public double Rho //setter and getter
             {
@@ -34,7 +34,7 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
-            /// The variable Theta in spherical coordinate.
+            /// The variable Theta in Spherical coordinate.
             /// </summary>
             public double ThetaS
             {
@@ -49,7 +49,7 @@ namespace _3DCoordinatesLibrary
             }
 
             /// <summary>
-            /// The variable Phi in spherical coordinate.
+            /// The variable Phi in Spherical coordinate.
             /// </summary>      
             public double Phi
             {
@@ -65,7 +65,7 @@ namespace _3DCoordinatesLibrary
 
             /// <summary>
             /// The three parameter constructor with Rho, Theta and Phi variable.
-            /// </summary
+            /// </summary>
             //constructer
             public Spherical()
             {
