@@ -90,6 +90,27 @@ namespace UnitTest3DCoordinates
 
         }
 
+      
+         [TestMethod]
+        public void SubtractionTest() // For distance
+        {
+            Cartesian P1 = new Cartesian();
+            Cartesian P2 = new Cartesian();
+            double result;
+
+            P1.X = 1;
+            P1.Y = 1;
+            P1.Z = 1;
+
+            P2.X = 2;
+            P2.Y = 2;
+            P2.Z = 2;
+
+
+            result = P1 - P2;
+
+            Assert.AreEqual(result, 1.7320508075688772935274463415059);
+        }
 
     }
 

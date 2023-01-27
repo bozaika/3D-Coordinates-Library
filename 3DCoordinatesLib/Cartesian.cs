@@ -105,8 +105,24 @@ namespace _3DCoordinatesLibrary
 
             }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="P1"></param>
+        /// <param name="P2"></param>
+        /// <returns></returns>
+        static public double operator -(Cartesian P1, Cartesian P2)
+        {
+            double temp;
+            double dx = P1._X - P2._X;
+            double dy = P1._Y - P2._Y; 
+            double dz = P1._Z - P2._Z;
 
+            temp = Math.Sqrt(dx*dx + dy*dy + dz*dz);
 
-
+            return temp;
         }
+
+
+    }
 }

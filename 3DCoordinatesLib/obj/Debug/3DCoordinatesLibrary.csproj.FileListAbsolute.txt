@@ -25,3 +25,10 @@ C:\Users\PSCAD\Desktop\3D updated\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrar
 C:\Users\PSCAD\Desktop\3D updated\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.csproj.CoreCompileInputs.cache
 C:\Users\PSCAD\Desktop\3D updated\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.dll
 C:\Users\PSCAD\Desktop\3D updated\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.pdb
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\bin\Debug\3DCoordinatesLibrary.xml
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\bin\Debug\3DCoordinatesLibrary.dll
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\bin\Debug\3DCoordinatesLibrary.pdb
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.dll
+C:\Users\PSCAD\Desktop\3D updatedd\3DCoordinatesLib\obj\Debug\3DCoordinatesLibrary.pdb
